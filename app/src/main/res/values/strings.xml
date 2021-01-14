@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">app name</string>
+    <string name="tab_text_1">today</string>
+    <string name="tab_text_2">not to miss</string>
+
+    <string-array name="time">
+        <item>12:00-1:00</item>
+        <item>1:00-1:30</item>
+        <item>1:30-3:00</item>
+        <item>3:00-3:30</item>
+        <item>3:30-4:44</item>
+        <item>4:44-7:30</item>
+    </string-array>
+
+    <string-array name="name">
+        <item>sport</item>
+        <item>news</item>
+        <item>musics</item>
+        <item>news</item>
+        <item>sport</item>
+        <item>news</item>
+    </string-array>
+
+</resources>
